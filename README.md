@@ -13,3 +13,6 @@ to make me feel fancy...I like to feel fancy =).
 When you access a site by a domain name it will actually
 be answered by dnsp running on your host. For use cases
 use your imagination, it is barely useful.
+
+You will need to run it as sudo since it will make changes
+to /etc/hosts and will listen on the 80 port.
